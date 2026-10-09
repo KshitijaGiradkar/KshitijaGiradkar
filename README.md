@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://github.com/KshitijaGiradkar">
-    <img src="https://komarev.com/ghpvc/?username=KshitijaGiradkar&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile views" />
+    <!-- <img src="https://komarev.com/ghpvc/?username=KshitijaGiradkar&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile views" /> -->
   </a>
 </p>
 
